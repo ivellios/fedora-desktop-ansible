@@ -6,7 +6,6 @@
 
   roles:
     - prepare_env
-    - vim
     - prepare-dotcfgs
     - ssh-config
     - packages
@@ -14,7 +13,7 @@
     - oh-my-zsh
     - tmux
     - tmuxinator
-    - guake
+    - yukuake
     - dropbox
     - libreoffice
     - vlc
@@ -22,23 +21,15 @@
     - virtualbox
     - google-chrome
     - docker
-    - hstr
     - wireshark
     - sysdig
     - slack
-    - hipchat
     - steam
     - fonts
     - redshift
     - libvirt
     - ntp
-    - translator-cli
     - npm
     - npm_modules
-    - evernote
     - gitkraken
     - pycharm
-    - intellij
-    - aws
-    - keybase
-    - hashicorp_packer
